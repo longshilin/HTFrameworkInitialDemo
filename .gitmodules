@@ -1,0 +1,6 @@
+[submodule "Assets/HTFramework"]
+	path = Assets/HTFramework
+	url = https://github.com/longshilin/HTFramework.git
+[submodule "Assets/HTFrameworkDemo"]
+	path = Assets/HTFrameworkDemo
+	url = https://github.com/longshilin/HTFrameworkDemo.git
